@@ -1,7 +1,7 @@
 <div align="center">
   
 # A Studious Approach to Semi-Supervised Learning
- [Sahil Khose](https://github.com/sahilkhose), [Shruti Jain](www.github.com/shrutijain1405), [Ankita Ghosh](https://github.com/manushree635)
+ [Sahil Khose](https://github.com/sahilkhose), [Shruti Jain](www.github.com/shrutijain1405), [V Manushree](https://github.com/manushree635)
 </div>
 
 --------------------------------------------------------------------------------------------
