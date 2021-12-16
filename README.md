@@ -6,8 +6,8 @@
 
 --------------------------------------------------------------------------------------------
 
-Official implementation of https://arxiv.org/abs/2109.08924 paper.
-This paper was submitted to Optimization for ML workshop (NeurIPS 2021).
+Official implementation of https://arxiv.org/abs/2109.08924 paper. <br><br>
+:partying_face: Update: This paper was accepted at the **I (Still) Can't Believe It's Not Better (ICBINB) workshop** at **NeurIPS 2021**. <br>
 
 ## Scripts
 | Notebook                  | Task                           |
